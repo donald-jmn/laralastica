@@ -1,5 +1,5 @@
 {
-  "name": "michaeljennings/laralastica",
+  "name": "donald-jmn/laralastica",
   "description": "A laravel package that allows you to search eloquent results using elasticsearch.",
   "keywords": [
     "elastica",
